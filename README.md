@@ -1,16 +1,25 @@
-### Hi there 👋
+# If you come, come in peace. To my domains. 🏰
 
-<!--
-**Fino59/Fino59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I? Quem sou eu?
 
-Here are some ideas to get you started:
+- Danilo Alvim Santos Fontes;
+- 38 years... 
+- From Santo André/SP;
+- Student of programming (I am almost self taught);
+ 
+  
+### Minhas paixões / Minhas paixões:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Music (I even tried to be a bass player); 🎸
+ - Games (Sometimes even bad games I like); 🎮
+ - Books (And all its scope as Comics or manga); 📚
+
+### Where to find me? / Onde me encontrar?
+
+<a href="https://www.linkedin.com/in/daniloalvimfontes/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="50"></a>  <a href="https://codepen.io/Fino59" target="_blank"><img src="https://icon-library.com/images/codepen-icon/codepen-icon-26.jpg" width="50" height="50"></a>  <a href="https://discordapp.com/users/FinoN59#6942"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="50" height="50"></a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fino59&layout=compact)](https://github.com/fino59/github-readme-stats)
+
+
+
+
