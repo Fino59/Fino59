@@ -8,7 +8,7 @@
 - Student of programming (I am almost self taught);
  
   
-### Minhas paixões / Minhas paixões:
+###  My passions / Minhas paixões:
 
  - Music (I even tried to be a bass player); 🎸
  - Games (Sometimes even bad games I like); 🎮
