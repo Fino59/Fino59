@@ -6,6 +6,7 @@
 - 38 years... 
 - From Santo André/SP;
 - Student of programming (I am almost self taught);
+- Learning Javascript at moment. 
  
   
 ###  My passions / Minhas paixões:
