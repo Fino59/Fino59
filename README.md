@@ -5,8 +5,8 @@
 - Danilo Alvim Santos Fontes;
 - 38 years... 
 - From Santo André/SP;
-- Student of programming (I am almost self taught);
-- Learning Javascript at moment. 
+- Student of programming;
+- Learning Javascript/ReactJs at moment. 
  
   
 ###  My passions / Minhas paixões:
