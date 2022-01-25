@@ -6,7 +6,7 @@
 - 38 years... 
 - From Santo André/SP;
 - Student of programming;
-- Learning Javascript/ReactJs at moment. 
+- Learning Javascript / Typescript/ ReactJs / NextJs at moment. 
  
   
 ###  My passions:
