@@ -6,7 +6,7 @@
 - 39 years... 
 - From Santo André/SP;
 - Student of programming;
-- Learning Typescript/ React Native / NextJs at moment. 
+- Learning React Native / Angular at moment. 
  
   
 ###  My passions:
