@@ -3,10 +3,10 @@
 ### Who am I?
 
 - Danilo Alvim Santos Fontes;
-- 40 years... 
+- 41 years... 
 - From Santo André/SP;
-- Student of programming;
-- Learning React Native / Angular at moment. 
+- 3 years as Front-end Developer (Typescript and React);
+- Learning Angular / React Native at the moment. 
  
   
 ###  My passions:
