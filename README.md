@@ -1,26 +1,45 @@
 # If you come, come in peace. To my domains. 🏰
 
-### Who am I?
+## 👋 Who am I?
 
-- Danilo Alvim Santos Fontes;
-- 43 years... 
-- From Santo André/SP;
-- 4 years as Front-End Developer (Typescript and React);
-- Learning Angular / React Native at the moment. 
- 
-  
-###  My passions:
+- Danilo Fontes  
+- Front-End Developer (React + TypeScript)  
+- Based in Santo André/SP 🇧🇷  
+- 4+ years building web applications  
+- Currently learning Angular & React Native  
 
- - Music (I even tried to be a bass player); 🎸
- - Games (Sometimes even bad games I like); 🎮
- - Books (And all its scope as Comics or manga); 📚
+---
 
-### Where to find me?
+## 🚀 About me
 
-<a href="https://www.linkedin.com/in/daniloalvimfontes/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="50" height="50"></a>  <a href="https://codepen.io/Fino59" target="_blank"><img src="https://i.imgur.com/tP0PbLY.png" width="50" height="50"></a>  <a href="https://discordapp.com/users/FinoN59#6942"><img src="https://cdn.iconscout.com/icon/free/png-512/discord-3-569463.png" width="50" height="50"></a>
+I'm a Front-End Developer focused on building responsive, performant and user-friendly interfaces.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fino59&layout=compact)](https://github.com/fino59/github-readme-stats)
+I enjoy working closely with design and backend teams to transform ideas into real products, always aiming for clean code, maintainability and a great user experience.
 
+I'm constantly learning and improving my skills — both in fundamentals (HTML, CSS, JavaScript) and modern tools.
 
+---
 
+## 🛠️ Tech Stack
 
+- **Frontend:** React, Next.js, JavaScript, TypeScript  
+- **Styling:** CSS, Sass, SCSS, Styled Components
+- **Tools:** Git, GitHub, Bitbucket  
+- **Design:** Figma, Adobe XD  
+- **Learning:** Angular, React Native, TailwindCSS  
+
+---
+
+## 🎯 Interests
+
+- 🎮 Games (good or bad, fun is what matters)  
+- 🎸 Music (former bass player attempt 😄)  
+- 📚 Books, comics & manga  
+
+---
+
+## 📫 Where to find me
+
+<a href="https://www.linkedin.com/in/daniloalvimfontes/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40" height="40">
+</a>
